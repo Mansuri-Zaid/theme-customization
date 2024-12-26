@@ -263,5 +263,3 @@ function filter_posts_ajax() {
 add_action('wp_ajax_filter_posts', 'filter_posts_ajax');
 add_action('wp_ajax_nopriv_filter_posts', 'filter_posts_ajax');
 
-
-fsdfsfdsfdfgfdgdgfd yu6yuyuyuyu
